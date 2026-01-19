@@ -1,0 +1,16 @@
+p{
+    color: blue;
+    background-color: bisque;
+    font-size: 100px;
+    font-style: italic;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background: pink;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid gray;
+    float: left;
+}
